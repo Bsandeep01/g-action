@@ -14,4 +14,4 @@ jobs:
         python-version: '3.8'
 
     - name: Code Run
-      run: python demo.py
+      run: python /g-action/demo.py
